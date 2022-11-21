@@ -6,3 +6,4 @@ git commit -m "detalle" ----
 git status - muestra el estado
 git push para actualizar los cambios locales en github
 git push -u origin
+prueba actualizar desde github. 
